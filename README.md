@@ -1,4 +1,5 @@
 install necassary packages
+
 npm init -y |
 npm install express canvas body-parser qrcode
 Run your Node.js application:
